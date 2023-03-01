@@ -1,2 +1,2 @@
-# maib-liber
-Buttons for maib liber
+# maib liber
+Butoane (html/svg) pentru **maib liber**
